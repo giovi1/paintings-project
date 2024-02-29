@@ -2,4 +2,4 @@
 > Computer Vision course project. 
 > Check the pdf for more info
 
-![Example](https://github.com/giovi1/painting-project/img/example.png)
+<img src="/img/example.png" alt="image" style="width:300px;height:auto;">
